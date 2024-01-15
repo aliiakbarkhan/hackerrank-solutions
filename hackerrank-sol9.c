@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main(int argc, char const *argv[])
 {
-    int a[100],i,n;
+    int a[1000],i,n;
     //  printf("enter size of arry:");
     scanf("%d",&n);
 
