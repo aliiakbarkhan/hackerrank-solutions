@@ -1,3 +1,4 @@
+//by ali akbar khan
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
