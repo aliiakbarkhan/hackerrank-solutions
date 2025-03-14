@@ -19,7 +19,8 @@ For support, email aliakbarkhana79@gmail.com.
 
 
 ## Authors
-https://github.com/user-attachments/assets/1b6f530c-0eb8-4c25-90c6-f26a9c64263a
+https://github.com/user-attachments/assets/af7a9530-cbef-4cb4-8f47-7d2a0691824d
+
 - [Ali Akbar Khan](https://www.github.com/aliiakbarkhan)
 
 
